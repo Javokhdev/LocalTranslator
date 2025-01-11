@@ -52,6 +52,32 @@ uzbek-english-translator/
 |└── communication.ong  # Image for application icons
 ```
 
+---
+
+## Screenshots
+
+### Main Menu
+![Main Menu](https://github.com/user-attachments/assets/0afc60b0-f4cf-4c45-a59d-527e00982149)
+
+### Add Words
+![Add Words](https://github.com/user-attachments/assets/3a60a566-dc50-4bdb-88b7-e0acd3842b32)
+
+### View Words
+![View Words](https://github.com/user-attachments/assets/007da4cb-a60a-467f-be4d-eb00c8627758)
+
+### Search
+![Search](https://github.com/user-attachments/assets/76ef4d16-62c4-43c7-9f14-b80e35f0901e)
+
+---
+
+## Features
+
+- **Add Words**: Easily add new words to your vocabulary list.
+- **View Words**: View all words in your vocabulary database at a glance.
+- **Search**: Quickly search for specific words in your vocabulary.
+
+---
+
 ## Contributing
 
 Contributions are welcome! If you'd like to add features or fix issues, please:
@@ -73,4 +99,5 @@ For questions or suggestions, feel free to contact:
 
 ---
 Thank you for using the Uzbek-English Translator App!
+
 
