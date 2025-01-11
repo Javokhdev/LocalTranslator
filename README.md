@@ -47,34 +47,33 @@ This is a simple PyQt5-based desktop application that serves as an Uzbek-English
 
 ```
 uzbek-english-translator/
-|├── translator.py      # Main application script
-|├── words.txt          # File to store word pairs (generated automatically)
-|└── communication.ong  # Image for application icons
+├── translator.py      # Main application script
+├── words.txt          # File to store word pairs (generated automatically)
+└── communication.png  # Image for application icons
 ```
 
 ---
 
 ## Screenshots
 
-### Main Menu
-![Main Menu](https://github.com/user-attachments/assets/0afc60b0-f4cf-4c45-a59d-527e00982149)
-
-### Add Words
-![Add Words](https://github.com/user-attachments/assets/3a60a566-dc50-4bdb-88b7-e0acd3842b32)
-
-### View Words
-![View Words](https://github.com/user-attachments/assets/007da4cb-a60a-467f-be4d-eb00c8627758)
-
-### Search
-![Search](https://github.com/user-attachments/assets/76ef4d16-62c4-43c7-9f14-b80e35f0901e)
-
----
-
-## Features
-
-- **Add Words**: Easily add new words to your vocabulary list.
-- **View Words**: View all words in your vocabulary database at a glance.
-- **Search**: Quickly search for specific words in your vocabulary.
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+    <div style="margin: 10px; text-align: center;">
+        <img src="https://github.com/user-attachments/assets/0afc60b0-f4cf-4c45-a59d-527e00982149" alt="Main Menu" width="300">
+        <p>Main Menu</p>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+        <img src="https://github.com/user-attachments/assets/3a60a566-dc50-4bdb-88b7-e0acd3842b32" alt="Add Words" width="300">
+        <p>Add Words</p>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+        <img src="https://github.com/user-attachments/assets/007da4cb-a60a-467f-be4d-eb00c8627758" alt="View Words" width="300">
+        <p>View Words</p>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+        <img src="https://github.com/user-attachments/assets/76ef4d16-62c4-43c7-9f14-b80e35f0901e" alt="Search" width="300">
+        <p>Search</p>
+    </div>
+</div>
 
 ---
 
@@ -98,6 +97,6 @@ For questions or suggestions, feel free to contact:
 - **Email**: [javohdev@gmail.com](mailto:javohdev@gmail.com)
 
 ---
-Thank you for using the Uzbek-English Translator App!
 
+Thank you for using the Uzbek-English Translator App!
 
