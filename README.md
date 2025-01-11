@@ -18,8 +18,8 @@ This is a simple PyQt5-based desktop application that serves as an Uzbek-English
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/uzbek-english-translator.git
-   cd uzbek-english-translator
+   git clone git@github.com:Javokhdev/LocalTranslator.git
+   cd LocalTranslator
    ```
 
 2. **Install Dependencies**
