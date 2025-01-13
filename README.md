@@ -93,7 +93,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to contact:
 
-- **Author**: Javohir Khasanov
+- **Author**: Javoxir Khasanov
 - **Email**: [javohdev@gmail.com](mailto:javohdev@gmail.com)
 
 ---
